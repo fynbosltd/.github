@@ -55,10 +55,7 @@ Fynbos LTD is more than a company—it's a community of **innovators, researcher
 Some of our current open-source initiatives:
 
 - **FynbosAI-Core:** Scalable AI framework for data-driven enterprises  
-- **AgriSense:** Open-source tools for precision agriculture and water management  
-- **RemoteMon:** Tools for environmental and land monitoring from satellite/drone data  
-
-*(Links to GitHub repos can be added here)*
+- **AgriSense:** Tools for precision agriculture and water management  
 
 ---
 
